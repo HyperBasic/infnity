@@ -1,4 +1,4 @@
 # Infinity
 
 
-#Work in Progress iOS jailbreak.
+Work in Progress iOS jailbreak project.
